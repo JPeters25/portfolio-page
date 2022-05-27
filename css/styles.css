@@ -9,10 +9,26 @@ h1{
   position:fixed;
   border: solid black;
   border-width: 3px;
-  background-color: darkslategray;
+  background-color:whitesmoke;
   overflow-x: hidden;
-  color:antiquewhite;
+  color: black;
   box-sizing: border-box;
+}
+
+a:link {
+  color: navy;
+}
+
+a:visited {
+  color: green
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+a:active {
+  color:red;
 }
 
 .main{

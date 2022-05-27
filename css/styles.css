@@ -1,0 +1,20 @@
+.headerhome {
+  text-align: center;
+}
+
+.about-me {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 2px;
+  background-color: rgba(144, 238, 144, 0.705);
+  opacity: 70;
+  text-align: center;
+}
+
+.Hobbies {
+  text-align: center;
+}
+
+.highlight {
+  font-style: italic;
+}

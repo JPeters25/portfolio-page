@@ -7,6 +7,7 @@
   border: solid black;
   border-width: 3px;
   background-color:whitesmoke;
+  opacity: 50%;
   overflow-x: hidden;
   color: black;
   box-sizing: border-box;
@@ -39,44 +40,58 @@ a:active {
 }
 .headerhome {
   text-align: center;
+  border: 1px solid black;
+  background-color: white;
+  opacity: 50%;
 }
 
 .header-aboutme {
   text-align: center;
+  border: 1px solid black;
+  background-color: white;
+  opacity: 50%;
 }
-
+.images{
+  text-align: center;
+}
 .about-me {
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
-  background-color: rgba(144, 238, 144, 0.705);
-  opacity: 70%;
+  background-color: white;
+  opacity: 50%;
   text-align: center;
 }
 
 .header-hobbies{
   text-align: center;
+  border: 1px solid black;
+  background-color: white;
+  opacity: 50%;
 }
 
 .Hobbies {
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
-  background-color: lightblue;
-  opacity: 70%;
+  background-color: white;
+  opacity: 50%;
   text-align: center;
 }
 
 .header-projects{
   text-align: center;
+  border: 1px solid black;
+  background-color: white;
+  opacity: 50%;
 }
 
 .projects{
   border: 2px solid black;
   padding: 10px;
   margin: 2px;
-  background-color: rgba(144, 238, 144, 0.705);
-  opacity: 70%;
+  background-color: white;
+  opacity: 50%;
   text-align: center;
 }
 
@@ -85,7 +100,8 @@ highlight {
 }
 
 body{
-  background-image: url(https://media.istockphoto.com/photos/dark-gray-and-black-grunge-cement-wall-studio-room-space-product-picture-id1337977426?b=1&k=20&m=1337977426&s=170667a&w=0&h=pXD50PRHzp_VW0Jqc3XVve3lQvKg3d5UnPb8C2urYL4=);
+  background-image: url(https://wallpapercave.com/wp/wp3416319.jpg);
+  background-size: cover;
 }
 
 h1{
